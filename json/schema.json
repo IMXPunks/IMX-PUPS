@@ -3,7 +3,7 @@
             {
                   "name": "name",
                   "type": "text",
-                  "filterable": true
+                  "filterable": false
             },
             {
                   "name": "description",
