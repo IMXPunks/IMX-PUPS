@@ -2,11 +2,13 @@
       "metadata": [
             {
                   "name": "name",
-                  "type": "text"
+                  "type": "discrete",
+                  "filterable": false
             },
             {
                   "name": "description",
-                  "type": "text"
+                  "type": "text",
+                  "filterable": false
             },
             {
                   "name": "image_url",
