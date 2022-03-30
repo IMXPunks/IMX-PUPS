@@ -2,18 +2,15 @@
       "metadata": [
             {
                   "name": "name",
-                  "type": "discrete",
-                  "filterable": false
+                  "type": "text"
             },
             {
                   "name": "description",
-                  "type": "text",
-                  "filterable": false
+                  "type": "text"
             },
             {
                   "name": "image_url",
-                  "type": "text",
-                  "filterable": false
+                  "type": "text"
             },
             {
                   "name": "Background",
